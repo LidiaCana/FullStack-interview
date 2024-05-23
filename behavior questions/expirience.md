@@ -31,3 +31,5 @@ By tailoring my communication approach, using visual aids, and fostering interac
 7. Tell me about a time when you had to meet a tight deadline for a project. How did you manage your time and prioritize tasks to ensure that the project was completed on schedule?
 
 8. Describe a situation where you had to take the lead on a project or initiative as a full stack developer. How did you motivate and guide your team members to achieve the project goals?
+
+9. What other features would you add to your project if given more time?
