@@ -18,3 +18,25 @@ Input: str1 = "LEET", str2 = "CODE"
 Output: ""
 
 ### Solution
+
+```
+/**
+ * @param {string} str1
+ * @param {string} str2
+ * @return {string}
+ */
+var gcdOfStrings = function(str1, str2) {
+     if(str1 + str2 !== str2+ str1) return ''
+
+     let size1 = str1.length;
+     let size2 = str2.length;
+
+     while(size2)
+     {
+        let temp = size2;
+        size2 = size1%size2;
+        size1 = temp;
+     }
+     return str1.substring(0,size1)
+};
+```
