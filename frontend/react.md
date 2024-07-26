@@ -25,3 +25,12 @@ The three phases are: Mounting, Updating, and Unmounting
 What are hooks and what are the most populars
 
 Should you use ternary operatior or operator conditional to render something
+
+What is fragment?
+Allow groups multiple children in a single one.
+What is ternary operator and spread operator
+What is loadash?
+
+What is HOC?
+
+What is context?
